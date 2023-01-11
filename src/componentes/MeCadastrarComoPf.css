@@ -1,0 +1,53 @@
+
+@media only screen and (min-width: 600px) {
+  
+.tabs{
+    margin-left: 70rem;
+    margin-top: -291px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+
+    
+    transition-delay: 1s;
+}
+}
+.tabs-lista{
+    
+    width: 100%;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tabs-btn{
+    width: 100%;
+    margin-bottom: auto;
+
+
+    text-align: center;
+    font-size: x-large;
+
+    
+    
+}
+
+.tabs-btn:hover{
+    color: rgb(0, 252, 42);
+    cursor: pointer;
+}
+
+.tabs-conteudo{
+    width: 100%;
+    height: auto;
+}
+
+.conteudo{
+    text-align: center;
+    padding: 1.5rem;
+    
+}
